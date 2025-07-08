@@ -1,7 +1,7 @@
 print ("Mary had a little lamb.")
 print ("Its fleece was white as {}.".format("snow"))
 print ("And everywhere that Mary went.")
-print("." * 10) #what's that do? Prints '.' ten times ..........
+print("." * 10) #what's thats do? Prints '.' ten times ..........
 
 end1 = "C"
 end2 = "h"
